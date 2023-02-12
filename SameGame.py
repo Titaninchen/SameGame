@@ -4,8 +4,8 @@ import functools
 
 
 # possible settings
-field_height = 10
-field_length = 10
+field_height = 12
+field_length = 12
 colour_variation = 6
 
 
